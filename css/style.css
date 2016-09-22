@@ -1,0 +1,113 @@
+body {
+    background-color:#67809F;
+}
+
+.parent {
+    margin:30px;
+    background-color: #CCCCCC;
+
+}
+
+.heading { 
+    font-family: Georgia, serif;
+    text-align: center;
+    color: #2e3e5f;
+    font-size: 1.5em;
+    font-style: normal;
+}
+
+.subheading {
+    font-family: "Courier New", Courier, monospace;
+    text-align: center;
+    color: #2e3e5f;
+}
+
+.row {
+    text-align: center;
+    column-count: 2;
+    background-color: #C0C0C0;
+    margin: 10px;
+}
+
+.billpic {
+    padding-top: 3px;
+    padding-left: 3px;
+    padding-right: 3px;
+    float: left;
+    background-color: white;
+    position: relative;
+    margin-left: 50px;
+    margin-top: 50px;
+    bottom: 20px;
+}
+
+#caption {
+    display: inline-block;
+    color: #2e3e5f;
+    font-size: 1.1em;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.text {
+    float: right;
+    margin-top: 80px;
+    color: #2e3e5f;
+    font-size: 1.3em;
+    position: relative;
+    bottom: 20px;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+#time {
+    padding-left: 50px;
+    font-size: 1.5em;
+}
+
+.timeline {
+	color: #2e3e5f;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.melinda {
+    column-count: 2;
+    text-align: center;
+    background-color: #C0C0C0;
+    margin: 10px;
+    position: relative;
+    bottom: 10px;
+}
+
+#mel {
+    display: inline-block;
+    color: #2e3e5f;
+    font-size: 1.1em;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.melindapic {
+    margin-top: 200px;
+    margin-right: 10px;
+    margin-left: 150px;
+    padding-top: 3px;
+    background-color: white;
+    float: right;
+    position: relative;
+    bottom: 50px;
+}
+
+.quote {
+    float: left;
+    margin-top: 100px;
+    margin-left: 50px;
+    font-size: 1.2em;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-style: italic;
+}
+
+#me{
+    text-align: right;
+    padding-right: 10px;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-size: 0.8em;
+}
+
