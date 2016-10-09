@@ -5,10 +5,9 @@ body {
 .parent {
     margin:30px;
     background-color: #CCCCCC;
-
 }
 
-.heading { 
+.heading {
     font-family: Georgia, serif;
     text-align: center;
     color: #2e3e5f;
@@ -110,4 +109,3 @@ body {
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
     font-size: 0.8em;
 }
-
