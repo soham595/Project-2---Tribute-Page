@@ -1,6 +1,5 @@
 body {
     background-color:#67809F;
-    /*background-image: "images/creed.jpg";*/
 }
 
 .parent {
@@ -8,7 +7,7 @@ body {
     background-color: #CCCCCC;
 }
 
-.heading { 
+.heading {
     font-family: Georgia, serif;
     text-align: center;
     color: #2e3e5f;
@@ -110,4 +109,3 @@ body {
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
     font-size: 0.8em;
 }
-
