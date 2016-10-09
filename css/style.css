@@ -1,11 +1,11 @@
 body {
     background-color:#67809F;
+    /*background-image: "images/creed.jpg";*/
 }
 
 .parent {
     margin:30px;
     background-color: #CCCCCC;
-
 }
 
 .heading { 
